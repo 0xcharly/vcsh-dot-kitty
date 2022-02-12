@@ -1,0 +1,10 @@
+*
+!/.gitignore.d
+!/.gitignore.d/kitty
+!/.README.d
+!/.README.d/kitty.md
+!/.config
+!/.config/kitty
+!/.config/kitty/dracula.conf
+!/.config/kitty/dracula-pro.conf
+!/.config/kitty/kitty.conf
