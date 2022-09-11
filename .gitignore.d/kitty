@@ -5,8 +5,4 @@
 !/.README.d/kitty.md
 !/.config
 !/.config/kitty
-!/.config/kitty/dracula.conf
-!/.config/kitty/dracula-pro.conf
-!/.config/kitty/github-dark.conf
-!/.config/kitty/github-dark-dimmed.conf
-!/.config/kitty/kitty.conf
+!/.config/kitty/*
